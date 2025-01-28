@@ -39,7 +39,7 @@ This project focuses on creating a comprehensive dashboard to present key insigh
  - **Actionable Insight**: Prioritize these products in marketing campaigns and consider bundling them to increase sales. Ensure these items are stocked adequately to meet demand.
  #### 3. Product Profitability Analysis
  - **Insight**: While other products act as catalysts, they are not driving significant profits.
- - **Actionable Insight*8: Conduct a detailed profitability analysis to assess which products are most profitable. Focus marketing efforts on high-margin items, and reduce or remove low-performing, loss-making products from the menu. This will ensure that resources are directed towards products that contribute the most to the bottom line.
+ - **Actionable Insight**: Conduct a detailed profitability analysis to assess which products are most profitable. Focus marketing efforts on high-margin items, and reduce or remove low-performing, loss-making products from the menu. This will ensure that resources are directed towards products that contribute the most to the bottom line.
  #### 4. Impact of Seasonal Sales
  - **Trend**: Sales see a 50% boost during the summer months, largely driven by vacations and academic holidays.
  - **Insight**: This seasonal boost represents an opportunity for growth, but also indicates the potential for dips in revenue during off-peak months.
